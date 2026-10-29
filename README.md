@@ -42,7 +42,11 @@ An Arduino Uno project, simulated in Wokwi, that reads temperature from an NTC s
 
 ## Screenshots
 
-<!-- Add your screenshots here, for example: ![26 °C, LED on](screenshot-26c.png) -->
+### Alert above 25 °C
+![36 °C: LED on, ALERT: Too hot!](screenshot-36c-alert.png)
+
+### Normal below 25 °C
+![24.9 °C: LED off, Status: Normal](screenshot-24c-normal.png)
 
 ## Possible improvements
 
