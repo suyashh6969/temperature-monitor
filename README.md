@@ -2,7 +2,7 @@
 
 An Arduino Uno project, simulated in Wokwi, that reads temperature from an NTC sensor, shows it on a 16x2 LCD, and lights an LED when the temperature goes above 25 °C.
 
-**Simulation:** [Open in Wokwi](PASTE-YOUR-WOKWI-LINK-HERE)
+**Simulation:** [Open in Wokwi](https://wokwi.com/projects/479247504104829953)
 
 ## How it works
 
